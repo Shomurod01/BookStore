@@ -1,2 +1,2 @@
 # BookStore
-Cloud-oriented of Web Application
+Cloud-oriented Web Application
